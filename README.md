@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amar</h1>
-<h3 align="center">🔐 Cybersecurity & System Development Enthusiast</h3>
+<h3 align="center">🔐 Cybersecurity|AI|Cloud</h3>
 
 <p align="center">
-🚀 Building secure systems | 💻 Exploring real-world tech
+🚀 Gen AI Student | 💻 Exploring real-world tech
 </p>
 
 ---
