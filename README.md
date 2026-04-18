@@ -23,7 +23,7 @@
 - Manages patient records & appointments
 - Implements structured database design
 - 🛠 Tech: Java / DBMS  
-👉 https://github.com/YOUR_USERNAME/hospital-emr-system
+👉 https://github.com/Amar377/hospital-emr-system
 
 ---
 
@@ -31,7 +31,7 @@
 - Simulates IoT environment to detect attacks
 - Logs suspicious activities for analysis
 - 🛠 Tech: Python / Networking  
-👉 https://github.com/YOUR_USERNAME/iot-honeypot-security
+👉 https://github.com/Amar377/iot-honeypot-security
 
 ---
 
@@ -39,7 +39,7 @@
 - Detects suspicious file behavior
 - Helps prevent ransomware attacks
 - 🛠 Tech: Python  
-👉 https://github.com/YOUR_USERNAME/ransomware-detector
+👉 https://github.com/Amar377/ransomware-detector
 
 ---
 
@@ -47,7 +47,7 @@
 - Implements secure access control for Git/DevOps
 - Focus on authentication & security
 - 🛠 Tech: Python / Security  
-👉 https://github.com/YOUR_USERNAME/secure-devops-access
+👉 https://github.com/Amar377/secure-devops-access
 
 ---
 
@@ -74,9 +74,9 @@
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Amar377&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amar377&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -85,7 +85,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amar377&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -94,15 +94,15 @@
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Amar377">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:amarboyina7@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/boyina-amar-22a9a1359/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
