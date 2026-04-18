@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amar</h1>
-<h3 align="center">🔐 Cybersecurity|AI|Cloud</h3>
+<h3 align="center">🔐 AI | Cloud | Cybersecurity Enthusiast</h3>
 
 <p align="center">
 🚀  Gen AI Student | Cloud & AI Builder
