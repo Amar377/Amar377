@@ -2,7 +2,7 @@
 <h3 align="center">🔐 Cybersecurity|AI|Cloud</h3>
 
 <p align="center">
-🚀 Gen AI Student | 💻 Exploring real-world tech
+🚀  Gen AI Student | Cloud & AI Builder
 </p>
 
 ---
